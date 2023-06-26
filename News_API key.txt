@@ -1,0 +1,15 @@
+News API password - News@api123
+Your API key for Benjamin is: 2e053c4d42fa409ea7399329def6bcf9
+
+Id - mishra.pop99@gmail.com
+Your API key for Alex is: 2327f4a0998f40148c2f2d4aaa7f6cea
+
+## categories
+business
+entertainment
+general
+health
+science
+sports
+technology
+
